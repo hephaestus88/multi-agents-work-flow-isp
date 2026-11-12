@@ -1,0 +1,8 @@
+{
+  "candidates": [
+    {"name": "baseline", "exposure_ev": 0.0, "contrast": 1.0, "denoise": 0.0, "sharpen": 0.0},
+    {"name": "detail", "exposure_ev": 0.0, "contrast": 1.05, "denoise": 0.1, "sharpen": 0.4},
+    {"name": "smooth", "exposure_ev": 0.0, "contrast": 1.0, "denoise": 0.5, "sharpen": 0.0}
+  ],
+  "quality": {"max_clipped_fraction": 0.1}
+}
